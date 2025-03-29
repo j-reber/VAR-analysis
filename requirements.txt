@@ -6,3 +6,6 @@ numpy
 pytz
 transformers
 typed-argument-parser
+matplotlib
+torchvision
+datasets
