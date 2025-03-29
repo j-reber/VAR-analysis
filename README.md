@@ -19,4 +19,4 @@ pip install -r requirements.txt
 The notebook is easily expandable by changing the depth of the model and the dataset. 
 
 ## Results
-The resulting plots of the analysis are stored in the `output` folder.
+The resulting plots of the analysis are stored in the `output` folder or in the `Analyzing_Memorization_VAR.pdf`.
